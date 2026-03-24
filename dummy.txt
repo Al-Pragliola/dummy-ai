@@ -1,0 +1,3 @@
+Hello from dummy-ai
+This is a placeholder file.
+It was created for issue #2.
